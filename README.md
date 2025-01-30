@@ -76,7 +76,7 @@ Create the following tables in your database. We have provided a file `schema.sq
 | last_name    |
 | email        |
 | phone_number |
-| position     | Trainer, Manager, Receptionist |
+| position     | Trainer, Manager, Receptionist, Maintenance |
 | hire_date    |
 | location_id  |
 
