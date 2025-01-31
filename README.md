@@ -160,7 +160,7 @@ Create the following tables in your database. We have provided a file `schema.sq
 | member_id      |
 | amount         |
 | payment_date   |
-| payment_method | Credit Card, Bank Transfer, PayPal |
+| payment_method | Credit Card, Bank Transfer, PayPal, Cash |
 | payment_type   | Monthly membership fee, Day pass |
 
 
