@@ -257,7 +257,7 @@ Use this as a checklist to keep track of your progress.
 2. [x] 7.2 Find trainers with one or more personal training session in the next 30 days
 
 #### 8. Personal Training (personal_training.sql)
-1. [ ] 8.1 List all personal training sessions for a specific trainer
+1. [x] 8.1 List all personal training sessions for a specific trainer
 
 ## Task Details
 
